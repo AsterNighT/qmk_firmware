@@ -1,5 +1,5 @@
 LEADER_ENABLE = yes # https://docs.qmk.fm/features/leader_key
-AUTO_SHIFT_ENABLE = yes # https://docs.qmk.fm/features/auto_shift
+# AUTO_SHIFT_ENABLE = yes # No, this cause significant delay https://docs.qmk.fm/features/auto_shift
 DYNAMIC_TAPPING_TERM_ENABLE = yes
 CAPS_WORD_ENABLE = yes
 DYNAMIC_MACRO_ENABLE = yes
